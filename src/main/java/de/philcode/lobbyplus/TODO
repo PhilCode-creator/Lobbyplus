@@ -1,0 +1,20 @@
+Commands:
+ /spawn 0%
+ /setSpawn 0%
+ /build 0%
+ /vanish 0%
+ /fly 0%
+
+Listener:
+ Join/Quit 56%
+ Chat 0%
+ Block Place/Break 0%
+
+Features:
+ Navigator 0%
+ Items 0%
+ Lobby Switcher 0%
+ Friend Item 0%
+ Force Shield 0%
+ Tablist 0%
+ Silent Lobby 0%

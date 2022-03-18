@@ -1,0 +1,6 @@
+name: Lobby+
+version: 0.1
+author: PhilCode
+main: de.philcode.lobbyplus.Lobby
+
+commands:
