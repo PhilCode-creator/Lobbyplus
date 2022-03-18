@@ -1,9 +1,10 @@
 Commands:
  /spawn 0%
  /setSpawn 0%
- /build 0%
+ /build 100%
  /vanish 0%
  /fly 0%
+ /reload
 
 Listener:
  Join/Quit 56%
@@ -18,3 +19,5 @@ Features:
  Force Shield 0%
  Tablist 0%
  Silent Lobby 0%
+ Scoreboard 0%
+ anti VPN
